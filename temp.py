@@ -1,10 +1,5 @@
-def solution(numbers):
-    num = 0
-    for i in range(10):
-        if i in tuple(numbers) != True:
-            pass
-        else:
-            num = num + i
-    print(num)
 
-solution([1,2,3,4,6,7,8,0])
+s = 'Zbcdefg'
+chr_list = sorted(list(s))[::-1]
+rev_list = ''.join(s for s in chr_list)
+print(rev_list)
