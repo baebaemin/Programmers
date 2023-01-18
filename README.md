@@ -1,5 +1,8 @@
 ### 🙌 hellobaemin@gmail.com 🙌
 ---
+### solved 230118
+* *문자열 다루기 기본* .isdigit()
+
 ### solved 230116
 * *약수의 개수와 덧셈* 
 * 문자열 내림차순으로 배치하기
