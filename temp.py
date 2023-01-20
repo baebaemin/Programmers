@@ -1,2 +1,2 @@
-for i in range(10):
-    print(ord(i))
+lst1 = [[]*2]
+print(lst1)
