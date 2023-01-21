@@ -2,6 +2,8 @@
 ---
 ### solved 230121
 * 행렬의 덧셈 .zip(), 이중 for문의 comprehension
+* 직사각형 별찍기
+* 최대공약수와 최소공배수
 
 ### solved 230118
 * *문자열 다루기 기본* .isdigit()
